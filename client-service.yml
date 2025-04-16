@@ -1,0 +1,6 @@
+spring:
+  application:  
+   name: client-service
+
+greeting:
+  message: Hello from the config server! AGAIN 
